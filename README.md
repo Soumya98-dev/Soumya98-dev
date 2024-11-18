@@ -32,8 +32,8 @@ A web app built with ReactJs that provides a user-friendly interface for managin
 ### [Weather App](https://github.com/soumya98-dev/Weather-App)
 A weather application using ReactJs and OpenWeather API, providing current weather updates with autocomplete for locations.
 
-### [Machine Learning Course](https://github.com/soumya98-dev/MachineLearning-Course)
-Projects and notebooks I created while learning machine learning, including implementations of various classifiers.
+### [Responsive Newsletter Builder](https://github.com/Soumya98-dev/ResponsiveNewsletterBuilder)
+Build a platform to create responsive newsletter templates that work across various email clients (Outlook, Gmail, Apple Mail, etc.). This is a simple web application where users can select or drag-and-drop elements to build their newsletters, which can be exported as HTML.
 
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/soumyadeep-chatterjee-60a086210/)
