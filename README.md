@@ -26,8 +26,8 @@ An app designed to help coffee drinkers get a good night's sleep by asking three
 ### [Notes App](https://github.com/soumya98-dev/Notes-App)
 A note-taking app built with JavaScript that allows you to create, edit, and delete notes quickly.
 
-### [Toll Management Application](https://github.com/soumya98-dev/Toll-Management-Application)
-A web app built with ReactJs that provides a user-friendly interface for managing toll gates efficiently.
+### [iExpense](https://github.com/Soumya98-dev/iExpense)
+SwiftUI-based expense tracking app that allows users to manage their personal and business expenses efficiently. 
 
 ### [Weather App](https://github.com/soumya98-dev/Weather-App)
 A weather application using ReactJs and OpenWeather API, providing current weather updates with autocomplete for locations.
