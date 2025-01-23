@@ -19,6 +19,9 @@ I'm currently pursuing my Master's in Computer Science at Wayne State University
 ## 🔥 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumya98-dev&show_icons=true&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya98-dev&show_icons=true&locale=en&layout=compact" alt="soumyadeep" /></p>
+
+
 ## 📌 Projects
 ### [Better Rest](https://github.com/soumya98-dev/BetterRest)
 An app designed to help coffee drinkers get a good night's sleep by asking three questions, then feeding the answers into Core ML to determine the ideal bedtime.
