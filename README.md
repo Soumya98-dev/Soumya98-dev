@@ -1,55 +1,79 @@
 # Hi there, I'm Soumyadeep Chatterjee! 👋
 
-I'm currently pursuing my Master's in Computer Science at Wayne State University in Detroit. I'm passionate about building software that can have a real-world impact, and I love solving challenging problems in the fields of software engineering, data science, and machine learning.
-
 ## 🚀 About Me
-- 🔭 I’m currently working on expanding my skills in SwiftUI and machine learning.
-- 🌱 I’m learning more about large language models (LLMs) to incorporate them into a new project.
-- 💬 Ask me about web development, data structures & algorithms, or anything tech-related.
-- 🏫 Previous experience: I have experience working at Allianz, and I’ve been involved in several projects during my studies using ReactJs, Java, Python, MySQL, and MongoDB.
-- 📷 In my free time, I enjoy photography and finding creative angles in the everyday.
+
+I'm a passionate Master's student in Computer Science at Wayne State University, dedicated to building software with real-world impact. My journey is driven by a love for solving challenging problems in software engineering, data science, and machine learning.
+
+### 🔍 Current Focus
+- 🖥️ Expanding skills in SwiftUI and machine learning
+- 🤖 Exploring large language models (LLMs) for innovative projects
+- 💡 Passionate about web development, data structures & algorithms
+
+### 💼 Professional Experience
+- **Previous Role:** Intern at Allianz
+- **Technical Expertise:** ReactJs, Java, Python, MySQL, MongoDB
+
+### 📸 Beyond Code
+When I'm not coding, you'll find me behind a camera, capturing creative perspectives in everyday moments.
 
 ## 🛠️ Technologies & Tools
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔥 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumya98-dev&show_icons=true&theme=radical)
+## 🔥 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya98-dev&show_icons=true&locale=en&layout=compact" alt="soumyadeep" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumya98-dev&theme=radical" alt="Soumyadeep's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=soumya98-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Details" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya98-dev&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+## 📌 Highlighted Projects
 
-## 📌 Projects
-### [Better Rest](https://github.com/soumya98-dev/BetterRest)
-An app designed to help coffee drinkers get a good night's sleep by asking three questions, then feeding the answers into Core ML to determine the ideal bedtime.
+### 🌙 [Better Rest](https://github.com/soumya98-dev/BetterRest)
+An innovative iOS app that helps coffee drinkers optimize their sleep. By collecting three simple inputs, the app leverages Core ML to determine the ideal bedtime, ensuring better rest.
 
-### [Notes App](https://github.com/soumya98-dev/Notes-App)
-A note-taking app built with JavaScript that allows you to create, edit, and delete notes quickly.
+### 📝 [Notes App](https://github.com/soumya98-dev/Notes-App)
+A lightweight, efficient note-taking application built with JavaScript. Create, edit, and delete notes with ease, streamlining your personal documentation process.
 
-### [iExpense](https://github.com/Soumya98-dev/iExpense)
-SwiftUI-based expense tracking app that allows users to manage their personal and business expenses efficiently. 
+### 💸 [iExpense](https://github.com/Soumya98-dev/iExpense)
+A SwiftUI-powered expense tracking solution. Manage personal and business expenses effortlessly, bringing clarity to your financial management.
 
-### [Weather App](https://github.com/soumya98-dev/Weather-App)
-A weather application using ReactJs and OpenWeather API, providing current weather updates with autocomplete for locations.
+### 🌦️ [Weather App](https://github.com/soumya98-dev/Weather-App)
+A responsive weather application using ReactJs and OpenWeather API. Get real-time weather updates with convenient location autocomplete functionality.
 
-### [Responsive Newsletter Builder](https://github.com/Soumya98-dev/ResponsiveNewsletterBuilder)
-Build a platform to create responsive newsletter templates that work across various email clients (Outlook, Gmail, Apple Mail, etc.). This is a simple web application where users can select or drag-and-drop elements to build their newsletters, which can be exported as HTML.
+### 📧 [Responsive Newsletter Builder](https://github.com/Soumya98-dev/ResponsiveNewsletterBuilder)
+A web application that simplifies newsletter creation. Drag-and-drop interface allows users to build responsive templates compatible with various email clients.
 
-## 🤝 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/soumyadeep-chatterjee-60a086210/)
+## 🤝 Let's Connect
 
-## 📫 How to reach me
-You can email me at soumya.dc98@gmail.com.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-chatterjee-60a086210/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soumya98-dev.github.io/soumyadeepchatterjee.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumya.dc98@gmail.com)
 
 ## 🎨 Fun Fact
-I started loathing sodas and energy drink back in my home country but fell in love with them once I arrived in the USA — a strange but true change ~ maybe I was too health conscious back in my home country!
 
+I had an unexpected love story with sodas and energy drinks! Back in my home country, I was quite health-conscious and avoided them. But after arriving in the USA, I surprisingly fell in love with these beverages — life's little ironies! 😄
 
+---
 
-<!---
-Soumya98-dev/Soumya98-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Crafted with ❤️ by Soumyadeep Chatterjee*
