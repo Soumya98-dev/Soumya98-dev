@@ -10,8 +10,8 @@ I'm a passionate Master's student in Computer Science at Wayne State University,
 - 💡 Passionate about web development, data structures & algorithms
 
 ### 💼 Professional Experience
-- **Previous Role:** Intern at Allianz
-- **Technical Expertise:** ReactJs, Java, Python, MySQL, MongoDB
+- **Previous Role:** Software Engineer at Allianz
+- **Technical Expertise:** ReactJs, Java, Python, MySQL, MongoDB, JavaScript, Swift
 
 ### 📸 Beyond Code
 When I'm not coding, you'll find me behind a camera, capturing creative perspectives in everyday moments.
