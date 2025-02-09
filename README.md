@@ -61,7 +61,7 @@ A SwiftUI-powered expense tracking solution. Manage personal and business expens
 ### 🌦️ [Weather App](https://github.com/soumya98-dev/Weather-App)
 A responsive weather application using ReactJs and OpenWeather API. Get real-time weather updates with convenient location autocomplete functionality.
 
-### 📧 [Responsive Newsletter Builder](https://github.com/Soumya98-dev/ResponsiveNewsletterBuilder)
+### 📧 [Responsive Newsletter Builder](https://github.com/Soumya98-dev/Responsive-NewsLetter-Builder)
 A web application that simplifies newsletter creation. Drag-and-drop interface allows users to build responsive templates compatible with various email clients.
 
 ## 🤝 Let's Connect
