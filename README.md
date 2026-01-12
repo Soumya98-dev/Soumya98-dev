@@ -22,7 +22,7 @@
     <a href="https://soumya98-dev.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://drive.google.com/file/d/1rF8VLFkyk6K7lrZuyj5M65ecLwJRn2PK/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1EZ3D4RiS4lBGyJTTBDfC44ugnZKXQODv/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
     </a>
     <a href="mailto:soumya.dc98@gmail.com">
