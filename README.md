@@ -85,7 +85,7 @@ I am currently relocating from the US back to the Indian tech ecosystem and am a
 
 ## Key Projects
 
-### [Travel Companion & Safety Hub](https://github.com/Soumya98-dev/EmpowerHer)
+### [Travel Companion & Safety Hub](https://github.com/Soumya98-dev/GirlsTrip)
 **Presented to Apple Engineering Leadership.** A secure SwiftUI app featuring an offline-first **Safety Hub** (CoreLocation) and on-device translation. 
 * *Stack: Swift, SwiftUI, MVVM, CoreLocation, NaturalLanguage*
 
@@ -93,7 +93,7 @@ I am currently relocating from the US back to the Indian tech ecosystem and am a
 **5th Place @ WayneHacks 3.** A context-aware mental health chatbot. Architected a RESTful backend to secure user sessions via **JWT authentication**.
 * *Stack: React, Flask, Python, Claude API*
 
-### [Encouragement Kitty](https://github.com/Soumya98-dev/)
+### [Encouragement Kitty]([https://github.com/Soumya98-dev/](https://github.com/Soumya98-dev/Encourgementkitty))
 **90% Prototype Retention Rate.** A native iOS widget-based app designed to boost mental wellness. Integrated **WidgetKit** for home screen engagement.
 * *Stack: Swift, WidgetKit, UserNotifications*
 
