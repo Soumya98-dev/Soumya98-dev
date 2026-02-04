@@ -1,18 +1,14 @@
 <div align="center">
-  <h1>Hi there, I'm Soumyadeep Chatterjee!</h1>
+  <h1>Soumyadeep Chatterjee</h1>
   
-  <h3>
-    Mobile & Web Engineer | Apple Developer Academy | Ex-Allianz
-  </h3>
+  <h3>Full-Stack Software Engineer</h3>
 
   <p>
-    <em>
-      Merging enterprise-scale reliability with pixel-perfect mobile experiences.
-    </em>
+    Building scalable backend systems and modern web applications
   </p>
 
   <p>
-    <strong>📍 Relocating to India • Immediate Joiner</strong>
+    Ex-Allianz Technology | MS in Computer Science (Wayne State University)
   </p>
 
   <p>
@@ -22,11 +18,8 @@
     <a href="https://soumya98-dev.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://drive.google.com/file/d/1EZ3D4RiS4lBGyJTTBDfC44ugnZKXQODv/view?usp=sharing">
-      <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-    </a>
     <a href="mailto:soumya.dc98@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -35,71 +28,94 @@
 
 ## About Me
 
-I am a **Mobile & Web Engineer** with a unique dual background: **2+ years of global experience** merging enterprise scale (**Ex-Allianz**) with US product design standards (**Apple Developer Academy**).
+Full-Stack Software Engineer with ~2 years of experience building enterprise systems at **Allianz Technology** and modern web applications. Recent MS in Computer Science graduate from **Wayne State University**.
 
-I am currently relocating from the US back to the Indian tech ecosystem and am available to join **immediately**.
-
-### What I Bring to the Table
-* **Mobile Product Sense:** Architected and shipped **4 native iOS apps** to TestFlight, presenting safety architectures directly to **Apple Engineering Leadership**.
-* **Enterprise Reliability:** Optimized financial systems at **Allianz**, sustaining **99.9% uptime** and reducing load times by **40%**.
-* **Full-Stack Versatility:** Comfortable bridging the gap between backend logic (**Node.js/Spring Boot**) and fluid mobile interfaces (**SwiftUI**).
+I specialize in backend development (Java, Node.js, PostgreSQL) with strong full-stack capabilities (React, TypeScript). I've optimized high-volume financial systems serving 3,000+ concurrent users, improved performance by 40%, and built real-time applications reducing manual workflows by 30%.
 
 ---
 
-## Technologies & Tools
+## Tech Stack
 
-**Mobile (iOS)**
+**Backend & APIs**
 <br>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/CoreLocation-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/WidgetKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-**Web & Backend**
+**Frontend**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Tools & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 ---
 
-## Professional Experience Highlights
+## Professional Experience
 
-**iOS Developer @ Apple Developer Academy** (Detroit, MI)
-* **Shipped 4 Apps:** Launched native iOS apps to TestFlight in <10 months.
-* **Apple Review:** Presented the *GirlsTrip* safety architecture directly to **Apple Engineering Leadership**.
-* **Engagement:** Achieved **90% prototype retention** for *Encouragement Kitty* using WidgetKit.
+### Software Engineer | Allianz Technology
+*May 2021 - Dec 2022 | Pune, India*
 
-**Software Developer @ Wayne State University** (Detroit, MI)
-* **Optimization:** Architected a real-time Student Tracker (React/Node.js) cutting data entry time by **30%**.
-* **Security:** Deployed a public catalog with JWT auth, reducing manual queries by **15 hours/week**.
+- Optimized high-volume SQL queries for Global Policy System serving 3,000+ concurrent users
+- Maintained 99.9% uptime for enterprise financial systems
+- Modernized legacy React frontends, improving page load performance by 20%
+- Streamlined CI/CD pipelines across 15+ countries
+- **Awarded "Nakshatra" Top Performer** for operational excellence
 
-**Software Engineer @ Allianz Technology** (Pune, India)
-* **Scale:** Sustained **99.9% uptime** for a Global Policy System with 3,000+ concurrent users.
-* **Performance:** Slashed dashboard load times by **40%** by optimizing SQL queries and React components.
-* **Award:** Recognized as **"Nakshatra" Top Performer** for operational excellence across 15+ countries.
+### Software Developer | Wayne State University
+*Sep 2024 - Dec 2024 | Detroit, MI*
+
+- Architected real-time Student Tracker system (Node.js, React, PostgreSQL) handling 500+ records
+- Reduced administrative data entry time by 30% through automation
+- Implemented secure JWT authentication and role-based access control
+- Built RESTful APIs for catalog management
+
+### Software Developer | Qutrix
+*Dec 2022 - Mar 2023 | Bengaluru, India*
+
+- Built real-time synchronization engine using WebSockets for 50+ concurrent users
+- Optimized dashboard performance by 40% (5s → 3s) through code splitting
+- Centralized state management using React and Redux
 
 ---
 
-## Key Projects
+## Featured Projects
 
-### [Travel Companion & Safety Hub](https://github.com/Soumya98-dev/GirlsTrip)
-**Presented to Apple Engineering Leadership.** A secure SwiftUI app featuring an offline-first **Safety Hub** (CoreLocation) and on-device translation. 
-* *Stack: Swift, SwiftUI, MVVM, CoreLocation, NaturalLanguage*
+### [Task Management API](https://github.com/soumya98-dev/task-api)
+RESTful API built with Spring Boot featuring user authentication, task CRUD operations, and PostgreSQL persistence.
+- **Stack:** Spring Boot, PostgreSQL, JPA/Hibernate, JWT, Maven
 
-### [MindMate - AI Health Platform](https://github.com/Soumya98-dev/MindMate)
-**5th Place @ WayneHacks 3.** A context-aware mental health chatbot. Architected a RESTful backend to secure user sessions via **JWT authentication**.
-* *Stack: React, Flask, Python, Claude API*
+### [SaaS Admin Portal](https://github.com/soumya98-dev/nextjs-dashboard)
+High-performance admin dashboard with real-time invoice management and secure authentication.
+- **Stack:** Next.js, TypeScript, PostgreSQL, NextAuth.js
 
-### [Encouragement Kitty](https://github.com/Soumya98-dev/Encourgementkitty)
-**90% Prototype Retention Rate.** A native iOS widget-based app designed to boost mental wellness. Integrated **WidgetKit** for home screen engagement.
-* *Stack: Swift, WidgetKit, UserNotifications*
+### [MindMate - Mental Health Platform](https://github.com/soumya98-dev/mindmate)
+AI-powered chatbot with context-aware conversations. **5th place at Wayne State Hackathon.**
+- **Stack:** React, Flask, SQLite, Claude API, JWT authentication
 
-### [NextJS Enterprise Dashboard](https://github.com/Soumya98-dev/NextJSDashboard)
-A performance-first admin platform leveraging **Server Actions** for streaming data fetching to ensure scalability and speed.
-* *Stack: Next.js 14, TypeScript, PostgreSQL*
+### [Real-Time Chat Application](https://github.com/soumya98-dev/chat-app) 
+WebSocket-based real-time messaging system with presence indicators and message persistence.
+- **Stack:** Node.js, Socket.io, MongoDB, React
+
+---
+
+## Education
+
+**M.S. in Computer Science** | Wayne State University | GPA: 3.66/4.0
+*Aug 2023 - Apr 2025 | Detroit, MI*
+
+**B.Tech in Computer Science** | Heritage Institute of Technology
+*Aug 2016 - Aug 2020 | Kolkata, India*
 
 ---
 
@@ -112,15 +128,8 @@ A performance-first admin platform leveraging **Server Actions** for streaming d
 
 ---
 
-## The Story So Far
-
-I had an unexpected love story with sodas and energy drinks! Back in India, I was the poster child for healthy choices. But after arriving in the USA, from late-night LeetCode grind sessions powered by **Celsius** to caffeine-fueled app brainstorming at the **Apple Developer Academy**, soda became my unofficial co-founder.
-
-But there’s more to me than code. I’m a quiet observer who once struggled with stuttering, using that lens to connect more deeply with people today. I find peace in ambient music, have a soft spot for pink flowers (reminiscent of my mother's rooftop garden), and enjoy social impact discussions.
-
-**Currently relocating back to India and looking for the next mission-driven team to join immediately.**
+<div align="center">
+    <p><i>Open to Full-Stack and Backend Engineering opportunities in India </i></p>
+</div>
 
 ---
-<div align="center">
-    <p><i>Crafted with ❤️ by Soumyadeep Chatterjee</i></p>
-</div>
