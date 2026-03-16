@@ -7,8 +7,7 @@ Kolkata, India · M.S. CS (AI), Wayne State University
 
 ## What I work on
 
-Backend-heavy web apps with Java/Spring Boot + React, REST APIs, and SQL databases.  
-Production experience on high-traffic insurance and workforce platforms.
+Backend-heavy web apps with Java/Spring Boot or Node.js + React, REST APIs, and SQL databases, with production experience on high-traffic insurance and workforce platforms.
 
 ## Experience
 
