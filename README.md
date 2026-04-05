@@ -1,31 +1,47 @@
 # Soumyadeep Chatterjee
 
-Full Stack Software Engineer · Java · Spring Boot · React · Node.js  
-Kolkata, India · M.S. CS (AI), Wayne State University
+Frontend Engineer · React · Next.js · TypeScript  
+Kolkata, India · M.S. Computer Science (AI), Wayne State University
 
 [Email](mailto:soumya.dc98@gmail.com) · [Portfolio](https://soumya98-dev.github.io/) · [LinkedIn](https://linkedin.com/in/soumyadeep-chatterjee-dev)
 
 ## What I work on
 
-Backend-heavy web apps with Java/Spring Boot or Node.js + React, REST APIs, and SQL databases, with production experience on high-traffic insurance and workforce platforms.
+I build React-based web applications with a focus on performance, real-time interfaces, accessibility, and API-driven UI development. My experience includes frontend work in enterprise and startup environments, including modular UI migration, dashboard performance optimization, and real-time updates using WebSockets.
 
 ## Experience
 
 **Allianz Technology** – Software Engineer  
-35% MySQL latency reduction on Global Policy Management System.  
-~20% page-load improvement migrating underwriting UI to React + Spring Boot.
+Worked on migrating legacy underwriting UI to modular React components on a multi-country insurance platform. Improved page load by ~20% on migrated modules, measured with Dynatrace.
 
-**Qutrix** – Senior Software Developer  
-40% faster Staffatom dashboard via React.lazy route-based code splitting.  
-WebSockets for real-time workforce roster updates.
+**Qutrix** – Software Developer  
+Reduced Staffatom dashboard load time by 40% using route-based code splitting with React.lazy and lazy loading. Built WebSocket-based real-time UI for live workforce roster updates.
 
-**Wayne State University** – Research & Contract  
-Architected Student Success Tracker (React, TypeScript, Node.js, PostgreSQL).  
-HIPAA-aware system design for MAGGIE medication adherence app.  
-RAG-based work on LLM reliability in clinical AI.
+**Wayne State University** – Software Developer (Contract)  
+Designed frontend flows and interactive UI prototype for Student Success Tracker, a React + TypeScript web application replacing spreadsheet-based faculty workflows. Defined dashboard behavior, user journeys, and API contracts to support frontend development.
 
-## Selected projects
+## Selected Projects
 
-- **Task Management REST API** – Spring Boot, PostgreSQL, Docker, AWS EC2  
-- **MindMate** – Flask, React, Claude API  
-- **Drag-and-Drop Newsletter Builder** – React, TypeScript  
+- **PetaSight Chat** – Next.js, TypeScript, OpenAI API, Vercel  
+  Client-facing chatbot UI with accessibility-focused interaction patterns and API-driven chat flows.
+
+- **Drag-and-Drop Newsletter Builder** – React, TypeScript, React DnD  
+  Email template builder with drag-and-drop section reordering, inline editing, and responsive HTML export.
+
+- **MindMate** – React, Flask, SQLite  
+  React-based conversational UI with authentication flows and backend API integration.
+
+## Core Skills
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Redux
+- Tailwind CSS
+- WebSockets
+- React.lazy
+- Performance optimization
+- Accessibility (WCAG)
+- REST API integration
