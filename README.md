@@ -1,5 +1,5 @@
 # Soumyadeep Chatterjee
-AI Engineer · Full Stack Development · GenAI Applications
+AI Engineer · Full Stack Development · GenAI Applications <br>
 Bengaluru, India · M.S. Computer Science (AI), Wayne State University
 
 [Email](mailto:soumya.dc98@gmail.com) · [Portfolio](https://soumya98-dev.github.io/) · [GitHub](https://github.com/Soumya98-dev) · [LinkedIn](https://linkedin.com/in/soumyadeep-chatterjee-dev)
