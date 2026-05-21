@@ -6,7 +6,7 @@ Bengaluru, India · M.S. Computer Science (AI), Wayne State University
 
 ## What I work on
 
-I build AI-powered applications and full-stack systems — LLM API integrations, RAG pipelines, autonomous agents, and React-based frontends. My background spans enterprise backend work (Spring Boot, MySQL), production frontend development (React, Next.js, WebSockets), and applied ML/GenAI (LangChain, OpenAI API, Claude API, PyTorch).
+I build AI-powered applications and full-stack systems; LLM API integrations, RAG pipelines, autonomous agents, and React-based frontends. My background spans enterprise backend work (Spring Boot, MySQL), production frontend development (React, Next.js, WebSockets), and applied ML/GenAI (LangChain, OpenAI API, Claude API, PyTorch).
 
 ## Experience
 
@@ -24,13 +24,13 @@ Built Student Success Tracker (React, Node.js, Fastify, PostgreSQL, Drizzle ORM,
 
 ## Selected Projects
 
-- **PetaSight Chat** – Next.js 14, TypeScript, OpenAI GPT-4o-mini, Vercel · [Live](#) · [GitHub](https://github.com/Soumya98-dev/petasight-chat)
+- **PetaSight Chat** – Next.js 14, TypeScript, OpenAI GPT-4o-mini, Vercel · [Live](#) · [GitHub](https://github.com/Soumya98-dev/petasight-chat) <br>
   Client-facing AI chatbot with accessible interaction patterns and LLM-backed API integration.
 
-- **Customer Churn Prediction** – Python, scikit-learn, PCA, k-means · [GitHub](https://github.com/Soumya98-dev/Customer-Churn-Prediction)
+- **Customer Churn Prediction** – Python, scikit-learn, PCA, k-means · [GitHub](https://github.com/Soumya98-dev/Customer-Churn-Prediction) <br>
   ML pipeline benchmarking Logistic Regression, Naive Bayes, Decision Tree, Bagging, and AdaBoost; best model: 80.7% accuracy, 0.856 AUC.
 
-- **Hybrid CNN-ViT for Hand Gesture Recognition** – Python, PyTorch, ResNet50, Vision Transformer · [GitHub](https://github.com/Soumya98-dev/Hybrid-CNN-ViT-Model-for-Sign-Language-Recognition)
+- **Hybrid CNN-ViT for Hand Gesture Recognition** – Python, PyTorch, ResNet50, Vision Transformer · [GitHub](https://github.com/Soumya98-dev/Hybrid-CNN-ViT-Model-for-Sign-Language-Recognition) <br>
   Combined ResNet50 and ViT on the HaGRID dataset; reached 93.23% test accuracy.
 
 ## Core Skills
