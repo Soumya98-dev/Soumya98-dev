@@ -1,46 +1,95 @@
 # Soumyadeep Chatterjee
-AI Engineer · Full Stack Development · GenAI Applications <br>
+
+Backend Engineer · AI Applications  
 Bengaluru, India · M.S. Computer Science (AI), Wayne State University
 
-[Email](mailto:soumya.dc98@gmail.com) · [Portfolio](https://soumya98-dev.github.io/) · [GitHub](https://github.com/Soumya98-dev) · [LinkedIn](https://linkedin.com/in/soumyadeep-chatterjee-dev)
+[Portfolio](https://soumya98-dev.github.io/) •
+[GitHub](https://github.com/Soumya98-dev) •
+[LinkedIn](https://linkedin.com/in/soumyadeep-chatterjee-dev)
 
-## What I work on
+---
 
-I build AI-powered applications and full-stack systems; LLM API integrations, RAG pipelines, autonomous agents, and React-based frontends. My background spans enterprise backend work (Spring Boot, MySQL), production frontend development (React, Next.js, WebSockets), and applied ML/GenAI (LangChain, OpenAI API, Claude API, PyTorch).
+## About
+
+I'm a backend engineer with experience building REST APIs, AI-powered applications, and full-stack web systems.
+
+My work spans Python, FastAPI, Spring Boot, PostgreSQL, React, and modern LLM-based applications including RAG pipelines and LangChain. I enjoy building software that is reliable, maintainable, and solves practical problems rather than proof-of-concept demos.
+
+---
 
 ## Experience
 
-**PricewaterhouseCoopers (PwC India)** – Associate, Intelligent Automation & AI
-Building autonomous AI agents using LangChain and developing RAG pipelines for client-facing solutions in the Advisory practice.
+### PwC India — Associate, Intelligent Automation & AI
 
-**Allianz Technology** – Software Engineer
-Reduced MySQL query latency by 35% on a multi-country insurance platform via execution plan analysis and join rewrites. Migrated legacy underwriting UI to modular React components, improving page load ~20% on migrated modules measured with Dynatrace.
+- Building enterprise AI applications using Python and LangChain
+- Developing Retrieval-Augmented Generation (RAG) pipelines
+- Working on LLM integrations and intelligent automation solutions
 
-**Qutrix** – Software Developer
-Reduced Staffatom dashboard load time by 40% using route-based code splitting with React.lazy, measured via Chrome DevTools. Built WebSocket-based real-time scheduling and timesheet UI for a workforce management product.
+### Allianz Technology — Software Engineer
 
-**Wayne State University** – Non-Instructional Assistant (Contract)
-Built Student Success Tracker (React, Node.js, Fastify, PostgreSQL, Drizzle ORM, JWT) with student submission flows and admin dashboard. Authored full BUC documentation and Figma prototype. Also produced HIPAA-aware system design for MAGGIE, a gamified medication adherence Android app.
+- Reduced MySQL query latency by **35%** through query optimization and execution plan analysis
+- Improved page load time by **~20%** by modernizing legacy React modules backed by Spring Boot APIs
 
-## Selected Projects
+### Qutrix — Software Developer
 
-- **PetaSight Chat** – Next.js 14, TypeScript, OpenAI GPT-4o-mini, Vercel · [Live](#) · [GitHub](https://github.com/Soumya98-dev/petasight-chat) <br>
-  Client-facing AI chatbot with accessible interaction patterns and LLM-backed API integration.
+- Reduced dashboard load time by **40%** using route-based code splitting
+- Built real-time scheduling features using WebSockets
 
-- **Customer Churn Prediction** – Python, scikit-learn, PCA, k-means · [GitHub](https://github.com/Soumya98-dev/Customer-Churn-Prediction) <br>
-  ML pipeline benchmarking Logistic Regression, Naive Bayes, Decision Tree, Bagging, and AdaBoost; best model: 80.7% accuracy, 0.856 AUC.
+### Wayne State University
 
-- **Hybrid CNN-ViT for Hand Gesture Recognition** – Python, PyTorch, ResNet50, Vision Transformer · [GitHub](https://github.com/Soumya98-dev/Hybrid-CNN-ViT-Model-for-Sign-Language-Recognition) <br>
-  Combined ResNet50 and ViT on the HaGRID dataset; reached 93.23% test accuracy.
+Built internal applications including:
 
-## Core Skills
+- Student Success Tracker (React, Fastify, PostgreSQL)
+- MAGGIE healthcare application system design
+- Research on retrieval-augmented AI systems for healthcare
 
-**Languages:** Python, JavaScript, TypeScript, SQL
+---
 
-**AI / GenAI:** LangChain, RAG, OpenAI API, Claude API, Prompt Engineering, PyTorch, scikit-learn
+## Featured Projects
 
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs, Docker, AWS EC2
+### PetaSight Chat
 
-**Frontend:** React.js, Next.js, Redux, TypeScript, Tailwind CSS, WebSockets
+Next.js • TypeScript • OpenAI API • Vercel
 
-**Databases:** PostgreSQL, MySQL, MongoDB
+AI chatbot with streaming responses and LLM API integration.
+
+### Customer Churn Prediction
+
+Python • scikit-learn
+
+Compared multiple ML models for telecom churn prediction.
+Best model achieved **80.7% accuracy** and **0.856 ROC-AUC**.
+
+### Hybrid CNN–Vision Transformer
+
+PyTorch • ResNet50 • Vision Transformer
+
+Hybrid deep learning architecture trained on the HaGRID dataset, achieving **93.23% test accuracy**.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Python • JavaScript • TypeScript • SQL
+
+**Backend**
+
+FastAPI • Spring Boot • Node.js • Express.js • REST APIs
+
+**AI / ML**
+
+LangChain • OpenAI API • Claude API • RAG • PyTorch • scikit-learn
+
+**Frontend**
+
+React • Next.js • Redux • Tailwind CSS
+
+**Databases**
+
+PostgreSQL • MySQL • MongoDB
+
+**Tools**
+
+Docker • Git • GitHub Actions • AWS EC2 • Postman • Dynatrace
