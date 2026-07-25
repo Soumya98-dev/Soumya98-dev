@@ -1,20 +1,18 @@
-# Hi, I'm Soumyadeep 
+# Hi, I'm Soumyadeep
 
-Backend Engineer building APIs and AI applications with Python.
+Backend Engineer building AI-powered applications and scalable APIs with Python.
 
-**Tech**
-Python • FastAPI • PostgreSQL • Spring Boot • React • LangChain • OpenAI API
+## Tech
 
-**Current Focus**
+Python • FastAPI • JavaScript • TypeScript • React • PostgreSQL • LangChain • RAG • OpenAI API • Docker • AWS
+
+## Current Focus
+
 - Backend Engineering
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
+- AI Applications
+- Cloud
 
-**Projects**
-- PetaSight Chat
-- Customer Churn Prediction
-- Hybrid CNN–Vision Transformer
+## Links
 
-**Links**
 - Portfolio: https://soumya98-dev.github.io/
 - LinkedIn: https://linkedin.com/in/soumyadeep-chatterjee-dev
