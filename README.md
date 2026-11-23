@@ -4,7 +4,7 @@ Backend Engineer building AI-powered applications and scalable APIs with Python.
 
 ## Tech
 
-Python • FastAPI • JavaScript • TypeScript • React • PostgreSQL • LangChain • RAG • OpenAI API • Docker • AWS
+Python • FastAPI • PostgreSQL • Redis • LangChain • RAG • OpenAI API • Docker • Azure • TypeScript • React
 
 ## Current Focus
 
@@ -15,4 +15,4 @@ Python • FastAPI • JavaScript • TypeScript • React • PostgreSQL • La
 ## Links
 
 - Portfolio: https://soumya98-dev.github.io/
-- LinkedIn: https://linkedin.com/in/soumyadeep-chatterjee-dev
+- LinkedIn: https://www.linkedin.com/in/soumyadeep-chatterjee98/
